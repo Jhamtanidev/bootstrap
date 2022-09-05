@@ -64,3 +64,16 @@ body{
     min-height: 300px;
 
 }
+
+#carouselbutton{
+    right: 0px;
+    
+    position: absolute;
+    bottom: 0px;
+}
+.carousel-caption{
+    right: 0px;
+    
+    bottom: 70px;
+        
+}
